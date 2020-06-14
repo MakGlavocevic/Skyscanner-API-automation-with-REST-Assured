@@ -44,7 +44,7 @@ public class TestRequest {
                 response = httpRequest.request(Method.GET, "en-GB");
                 String responseBody = response.getBody().asString();
                 System.out.println("Response: " + responseBody);
-                //example
+                
             }
         }
 
