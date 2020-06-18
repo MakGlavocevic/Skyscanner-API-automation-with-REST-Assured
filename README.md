@@ -16,9 +16,9 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 2.IntelliJ IDEA Community Edition (https://www.jetbrains.com/idea/)
 
-3.REST Assured (https://mvnrepository.com/artifact/io.rest-assured/rest-assured)
+3.REST Assured (will be installed via maven)
 
-4.Junit (https://mvnrepository.com/artifact/junit/junit)
+4.Junit (will be installed via maven)
 
 --------------------------------------
 
@@ -28,7 +28,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 2. Install latest IntelliJ IDEA Community Edition
 
-3. Clone my git repository
+3. Clone my git repository (https://github.com/MakGlavocevic/Skyscanner-API-automation-with-REST-Assured.git)
 
 4. Open IntelliJ IDEA Community Edition
 
@@ -36,7 +36,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 6. In the Project window on the sidebar go to pom.xml 
 
-7. Inside pom.xml see if all of the dependecies are up to date and let IntelliJ download them if you dont have them alredy. 
+7. Inside pom.xml see if all of the dependecies are up to date and let IntelliJ download them if you dont have them alredy.(load meaven changes button) or install them via CLI with mvn clean install command
 
 8. Go to src>test>java and click on TestRequest there you can right click and select Run to run the test.
 
