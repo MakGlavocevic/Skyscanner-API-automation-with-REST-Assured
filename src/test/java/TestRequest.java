@@ -14,7 +14,7 @@ public class TestRequest{
         RestAssured.baseURI = "https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices";
         Response response;
         String[] placeIds = new String[2];
-        //Data for test "/autosuggest/v1.0/{Market}/{Currency}/{Locale}/?query={Place}"
+        //Data for test "/autosuggest/v1.0/{Country}/{Currency}/{Locale}/?query={Place}"
         String[] localeExamples = new String[] { "/autosuggest/v1.0/DE/EUR/en-GB/?query=Frankfurt", "/autosuggest/v1.0/DE/EUR/en-GB/?query=London"};
         for(int i=0; i<localeExamples.length; i++)
         {
