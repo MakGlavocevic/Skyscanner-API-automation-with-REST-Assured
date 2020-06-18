@@ -5,6 +5,8 @@ Testing API with REST Assured and Junit
 
 This automation test was created as a part of a work task. It uses Skyscanner Flight Search API from rapidapi.com
 
+This test represents a smoke test and the main objectives are to see if the API responds to our GET requests as it should 
+
 rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/details
 
 --------------------------------------
@@ -38,12 +40,12 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 8. In case you want to do the test with different data then mine then you can change the data in the 18th line of code. 
 
-Here are some example of data:
+ Here are some example of data:
 
-{Country} (US, UK, DE, FR, BA)
+ {Country} (US, UK, DE, FR, BA)
 
-{Currency} (USD, GBP, EUR)
+ {Currency} (USD, GBP, EUR)
 
-{Locale} (en-GB, en-US, fr-FR)
+ {Locale} (en-GB, en-US, fr-FR)
 
-{Place} (Any name of a town in the world that has an Airport) 
+ {Place} (Any name of a town in the world that has an Airport) 
