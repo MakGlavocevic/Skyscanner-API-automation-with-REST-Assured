@@ -40,6 +40,8 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 8. In case you want to do the test with different data then mine then you can change the data in the 18th line of code. 
 
+--------------------------------------
+
  Here are some example of data:
 
  {Country} (US, UK, DE, FR, BA)
