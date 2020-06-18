@@ -3,9 +3,9 @@ Testing API with REST Assured and Junit
 
 ## Overview
 
-This automation test was created as a part of a work task. It uses Skyscanner Flight Search API from rapidapi.com
+This automation test was created as a part of a work task. It uses Skyscanner Flight Search API from rapidapi.com.
 
-This test represents a smoke test and the main objectives are to see if the API responds to our GET requests as it should 
+This test represents a smoke test and the main objective is to see if the API responds to our GET requests with the correct HTTP status code.
 
 rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/details
 
