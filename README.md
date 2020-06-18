@@ -12,7 +12,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 --------------------------------------
 
 ## Prerequisites
-1.Java SDK (https://www.oracle.com/java/technologies/javase-downloads.html)
+1.Java SDK 14.0.1 (https://www.oracle.com/java/technologies/javase-downloads.html)
 
 2.IntelliJ IDEA Community Edition (https://www.jetbrains.com/idea/)
 
@@ -24,7 +24,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 ## How to run
 
-1. Install latest Java SDK 
+1. Install Java SDK 14.0.1
 
 2. Install latest IntelliJ IDEA Community Edition
 
@@ -32,7 +32,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 4. Open IntelliJ IDEA Community Edition
 
-5. Open the folder where my project is
+5. Open the folder where my project is via IntelliJ
 
 6. In the Project window on the sidebar go to pom.xml 
 
