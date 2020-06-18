@@ -34,11 +34,13 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 5. Open the folder where my project is
 
-6. In the Project window on the sidebar go to pom.xml and see if all of the required dependencies are up to date
+6. In the Project window on the sidebar go to pom.xml 
 
-7. Go to src>test>java and click on TestRequest there you can right click and select Run to run the test.
+7. Inside pom.xml see if all of the dependecies are up to date and let IntelliJ download them if you dont have them alredy. 
 
-8. In case you want to do the test with different data then mine then you can change the data in the 18th line of code. 
+8. Go to src>test>java and click on TestRequest there you can right click and select Run to run the test.
+
+9. In case you want to do the test with different data then mine then you can change the data in the 18th line of code. 
 
 --------------------------------------
 
