@@ -24,7 +24,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 
 ## How to run
 
-1. Install Java SDK 14.0.1
+1. Java 1.8
 
 2. Install latest IntelliJ IDEA Community Edition
 
