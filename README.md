@@ -1,5 +1,8 @@
 # Skyscanner-API-automation-with-REST-Assured
+
 Testing API with REST Assured and Junit
+
+--------------------------------------
 
 ## Overview
 
