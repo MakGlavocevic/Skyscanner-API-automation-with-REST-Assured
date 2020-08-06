@@ -12,7 +12,7 @@ rapidapi.com link: https://rapidapi.com/skyscanner/api/skyscanner-flight-search/
 --------------------------------------
 
 ## Prerequisites
-1.Java SDK 14.0.1 (https://www.oracle.com/java/technologies/javase-downloads.html)
+1.Java 1.8 
 
 2.IntelliJ IDEA Community Edition (https://www.jetbrains.com/idea/)
 
